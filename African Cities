@@ -1,3 +1,4 @@
+//african cities
 SELECT CITY.NAME
 FROM
 CITY
